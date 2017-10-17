@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Rou",
+				"RouteParams"
+			],
+			[
+				"_ro",
+				"_routeParams"
+			],
+			[
+				"ti",
+				"tituloPelicula"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"peli",
+				"peliculas"
+			],
+			[
+				"p",
+				"pelicula"
+			],
+			[
+				"la",
+				"lanzamiento"
+			],
+			[
+				"pro",
+				"programa"
+			],
+			[
+				"por",
+				"programa"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"get",
+				"getNombre"
+			],
+			[
+				"set",
+				"setNombre"
+			],
+			[
+				"coc",
+				"coche"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 341,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/wamp/wamp64/www/curso-angular/app/components/crear-pelicula.component.ts",
+		"/C/wamp/wamp64/bin/apache/apache2.4.27/conf/httpd.conf",
+		"/C/wamp/wamp64/bin/apache/apache2.4.27/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/wamp64/www/curso-angular/app/view/peliculas.html",
+		"/C/wamp/wamp64/www/curso-angular/app/view/crear-pelicula.html",
+		"/C/wamp/wamp64/www/curso-angular/app/view/peliculas-list.html",
+		"/C/wamp/wamp64/www/curso-angular/app/components/peliculas-list.component.ts",
+		"/C/wamp/wamp64/www/curso-angular/app/app.component.ts",
+		"/C/wamp/wamp64/www/curso-angular/app/components/contacto.component.ts",
+		"/C/wamp/wamp64/www/curso-angular/app/view/contacto.html",
+		"/C/wamp/wamp64/www/curso-angular/app/services/peliculas.service.ts",
+		"/C/wamp/wamp64/www/curso-angular/app/components/peliculas-footer.component.ts",
+		"/C/wamp/wamp64/www/curso-angular/app/services/mock.peliculas.ts",
+		"/C/wamp/wamp64/www/curso-angular/index.html",
+		"/C/wamp/wamp64/www/curso-angular/app/main.ts",
+		"/C/wamp/wamp64/www/curso-angular/assets/css/styles.css",
+		"/C/wamp/wamp64/www/curso-angular/tsconfig.json",
+		"/C/wamp/wamp64/www/curso-angular/app/model/pelicula.ts",
+		"/C/wamp/wamp64/www/curso-angular/app/view/peliculas-footer.html",
+		"/C/wamp/wamp64/www/curso-angular/package.json",
+		"/C/wamp/wamp64/www/curso-angular/typings.json",
+		"/C/wamp/wamp64/www/curso-angular/curso-angular.sublime-project",
+		"/C/wamp/wamp64/www/curso-typescript/programa.ts",
+		"/C/wamp/wamp64/www/curso-typescript/index.html",
+		"/C/wamp/wamp64/www/curso-typescript/programa.js",
+		"/C/wamp/wamp64/www/curso-typescript/coche.js",
+		"/C/wamp/wamp64/www/curso-typescript/coche.ts",
+		"/C/wamp/wamp64/www/curso-typescript/prueba.js",
+		"/C/wamp/wamp64/www/curso-typescript/prueba.ts",
+		"/C/wamp/wamp64/www/index.html",
+		"/C/wamp64/www/curso-typescript/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"datosServicio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-angular.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
